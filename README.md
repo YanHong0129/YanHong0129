@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leow Yan Hong</h1>
-<h3 align="center">A university student and basketball lover</h3>
+<h3 align="center">A third-year Software Engineering student</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
