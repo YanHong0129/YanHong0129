@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leow Yan Hong</h1>
-<h3 align="center">A third-year Software Engineering student</h3>
+<h3 align="center">A 3rd-year Computer Science student from Universiti Teknologi Malaysia (UTM) with a passion for solving real-world 
+problems through technology
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
